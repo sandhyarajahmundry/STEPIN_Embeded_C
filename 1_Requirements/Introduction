@@ -1,0 +1,41 @@
+## Introduction
+This system presents a Microcontroll(atmega328) based Seat measurement system to dectect and confirm the presence/absence of person on the seat. In this system the sensor will sense is the driver has been seated or not and if the driver seated then the temperature need to be set accordingly. Based on the controller it will set the temperature and it is capable of maintaining of heat in the vehicles seats. And whatever the heat is generated that point it will be displaying on displays like (Liquid crystal display (LCD),Light emitting diode (LED) backlit LCD, 
+Thin film Transistors (TFT) LCD).
+
+## Features
+This system is reliable.
+It is compitable.
+It sense whether the person is existed or not.
+low cost and robust system
+
+## SWOT Analysis
+## Strength
+Low Cost.
+Modular based program.
+## Weekness
+It can be used only in europian countries.
+## Opportunities
+It can be implemented by replacing heater by air conditioner so that it can be helpful in all the countries.
+## Threates
+It will not suitable in high temperature Environment.
+
+## WHAT :  Passanger Seat and Heat Monitoring System.
+## WHERE :  Used in automotive industry.
+## WHEN : At low temperature.
+## WHY :  For being healthy.
+## HOW :  Operates by modifying the temperature.
+
+## 4W's AND 1H's
+## High Level Requirements
+| HighLevel Requirements | Description |
+| :----: | :----: |
+| HLR1 | Heat Generation |
+| HLR2 | Switches |
+| HLR3 | Display |
+
+## Low Level Requirements
+| LowLevel Requirements | Description |
+| :----: | :----: |
+| LLR1 | Thermoelectric Module |
+| LLR2 | Push Button |
+| LLR3 | ATmega328 |
