@@ -11,7 +11,6 @@
  * @copyright Copyright (c) 2021
  * 
  */
-
 #define F_CPU 16000000UL 	
 #define LED_PORT (PORTD)    
 #define LED_PIN  (PORTD2)   
